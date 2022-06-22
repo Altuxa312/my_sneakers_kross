@@ -1,0 +1,35 @@
+header{
+    background-color: aliceblue;
+    border-bottom: 1px solid #686868;
+    border-radius: 15px 15px 0px 0px;
+    .bashy{
+        padding: 33px 85px 33px 85px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      
+        .logo img{
+        height: 50px; 
+         }
+     }
+}
+.icon{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    } 
+.icon_1{
+    display: flex;
+    gap: 1rem;
+}
+.corzina{
+    color: black;
+}
+
+.onas{
+    color: black;
+}
+
+.acc{
+    color: black;
+}
